@@ -3,11 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Eren</h1>
 
-- 🔭 I’m currently working on **C#**
-
-- 👨‍💻 All of my projects are available at **https://github.com/erenercann/**
 
 - 🌱 I’m currently learning **C#,RPGLE**
+
+- 👨‍💻 All of my projects are available at **https://github.com/erenercann/**
 
 - 📫 How to reach me **erenercan34@gmail.com**
 
